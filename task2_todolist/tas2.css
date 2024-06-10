@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Poppins" ,sans-serif;
+}
+.main{
+    background: url(kelly-sikkema-dgVSuJu58C0-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.ubdy{
+    background-color: lightblue;
+}
+
+.hea{
+    text-align: center;
+    top: 10vh;
+}
+.btn{
+    justify-content: center;
+    text-align: center;
+   
+}
+.bogh{
+    position: fixed;
+    top: 10vh;
+    left: 40vw;
+}
+.text{
+    position: fixed;
+    top: 30vh;
+    left: 30vw;
+}
+.button1{
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+}
+.button2{
+    margin-left: 10px;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+}
+/* .lbdy{
+    background-color: yellow;
+} */
+#list{
+position: fixed;
+font-size: 40px;
+color: purple;
+top: 40vh;
+left: 35vw;
+}
